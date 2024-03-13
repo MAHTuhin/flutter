@@ -19,5 +19,4 @@ void main(){
   obj.play();
   obj1.play();
   print(obj1.department);
-
 }
